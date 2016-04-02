@@ -7,5 +7,4 @@ python 01performFS.py
 python 02runTests.py
 
 Optional (PCA images):
-
 python 03runPCA.py
