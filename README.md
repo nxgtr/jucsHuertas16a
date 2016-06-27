@@ -1,4 +1,4 @@
-# jmlrHuertas16a
+# jucsHuertas16a
 
 Code for paper: Heat Map Based Feature Selection: Dimensionality Reduction Technique Applied in Mass Spectrometry Data for Biomarker Discovery
 
