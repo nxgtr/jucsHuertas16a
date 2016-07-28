@@ -1,6 +1,6 @@
 # jucsHuertas16a
 
-Code for paper: Heat Map Based Feature Selection: Dimensionality Reduction Technique Applied in Mass Spectrometry Data for Biomarker Discovery
+Code for paper: Heat Map Based Feature Selection: Dimensionality Reduction Technique Applied in High Dimensional Data
 
 Just run:
 
