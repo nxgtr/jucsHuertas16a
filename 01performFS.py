@@ -14,7 +14,7 @@ def printStats(nom,X,y):
   print " Features:" + str(len(X[0]))
   print " Val I1F1:" + str(X[0][0])
   
-datasetNames=["alon","golubScaled","suScaled","shippScaled","tian","chowdary","singhScaled"]
+datasetNames=["alon","burczynski","chin","chowdary","singhScaled","suScaled","tian"]
 
 for eachDataset in datasetNames:
   print eachDataset
